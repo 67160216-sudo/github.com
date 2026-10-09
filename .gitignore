@@ -1,5 +1,5 @@
 venv/
-__pycache__/
+pycache/
 *.log
 api_log.txt
 my-fastapi-project/app/database.py
